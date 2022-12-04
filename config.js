@@ -7,8 +7,9 @@ const CONFIG = {
     những cô đơn, những lần khóc 1 mình mà em đã phải chống chọi, khi nghe được những sự việc đó, lòng anh quặng đau hơn nữa, anh thấy mình tệ và vô tâm quá, sao anh có thể lại
     không để ý được những điều nhỏ nhặt như vậy, bây giờ anh chỉ ước mình có thể quay ngược lại thời gian để có thể đơm thêm nhiều điều ngọt ngào, chiều chuộng em nhiều hơn
     quan tâm chăm sóc để ý và quan trọng là có thể cho em thấy được anh không có vô tâm, không lãng mạn như em nghĩ, anh yêu em bằng cả sự chân thành với những điều nhỏ nhặt
-    nhất em nói với anh, anh điều lưu ý, và nhớ hết, anh ước gì mình có thể sửa sai và không có tỏ ra vụng về trong việc thổ lộ tình cảm của mình, 1 cơ hội sửa sai, và anh cũng muốn được cố gắng dù chỉ 1 lần cho 2 chúng ta, nếu sau này vẫn không hợp thì thật sự anh cũng không có gì để hối tiếc :(  . Và em ơi, anh muốn hỏi là:    `,
-    btnIntro: 'Hỏi cái gì đó',
+    nhất em nói với anh, anh điều lưu ý, và nhớ hết. Anh ước gì mình có thể sửa sai và không có tỏ ra vụng về trong việc thổ lộ tình cảm của mình, 
+    , và anh cũng muốn được cố gắng dù chỉ 1 lần cho 2 chúng ta, nếu sau này vẫn không hợp thì thật sự anh cũng không có gì để hối tiếc :(. Và em ơi, anh muốn hỏi là:    `,
+    btnIntro: 'Hỏi cái gì đó, đồ xấu xa thấy ghét kia',
     title: 'Vậy em cho anh hỏi là, hỏi là em nè, em cho anh cơ hội sửa sai và làm em được hạnh phúc 1 lần nữa được không, được quay lại vị trí xuất phát 1 lần nữa được không ?',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em chịu đó nha, ông già ',
     btnYes: 'Thôi được rồi, tui cho ông cơ hội đó nhưng mà phải thương tui gấp 1000000 lần nhe 💖💖💖',
